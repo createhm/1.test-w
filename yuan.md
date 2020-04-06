@@ -40,3 +40,4 @@ channels:
   - defaults
 show_channel_urls: true
 
+test
