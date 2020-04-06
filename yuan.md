@@ -30,14 +30,22 @@ ssl_verify: true
 channels:
 
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/pro
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
-  - defaults
-show_channel_urls: true
 
-test
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/pro
+
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+
+  - defaults
+  show_channel_urls: true
+
+  
